@@ -112,6 +112,7 @@ http {
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/a1e869b4-6f3b-4a2b-ab42-cfa139888dd0)
 
 ## ✨ Option 2: Round-Robin Load Balancing
 ```js
@@ -160,6 +161,9 @@ Port 8080 on your host is mapped to port 80 inside Docker Ubuntu.
 
 Always run your Node.js servers before testing NGINX routing.
 ```
+
+
+
 
 
 
